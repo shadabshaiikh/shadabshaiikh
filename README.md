@@ -4,4 +4,4 @@ I am Shadab, a AWS Cloud & DevOps Engineer.I have 2+ years of professional onsit
 
 I mostly work with Linux,Docker, Buil a CI/CD pipelines and Cloud based technologies. 🚀
 
-https://docs.gitlab.com/ee/ci/
+[https://docs.gitlab.com/ee/ci/](https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif)https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif
