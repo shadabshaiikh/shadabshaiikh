@@ -59,6 +59,6 @@ DevOps
 
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/shaikh-shadab-6433a81b3/) 👨🏻‍💻
- - Shoot Me an [Email](sshadab9851@gmail.com) 💌
+ - Shoot Me an [Email](mailto:sshadab9851@gmail.com) 💌
 
  
