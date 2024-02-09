@@ -58,7 +58,7 @@ DevOps
 ### 📫 How to reach me?
 
 
- - Connect with me on [LinkedIn](www.linkedin.com/in/shaikh-shadab-6433a81b3) 👨🏻‍💻
+ - Connect with me on [LinkedIn] (www.linkedin.com/in/shaikh-shadab-6433a81b3/) 👨🏻‍💻
  - Shoot Me an [Email](sshadab9851@gmail.com) 💌
 
  
