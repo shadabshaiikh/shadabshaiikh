@@ -19,9 +19,7 @@ I mostly work with Linux,Docker, Buil a CI/CD pipelines and Cloud based technolo
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
+  
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
   </a>
@@ -61,7 +59,6 @@ DevOps
 
 
  - Connect with me on [LinkedIn](www.linkedin.com/in/shaikh-shadab-6433a81b3) 👨🏻‍💻
- //- Follow me on [Instagram](/) ✨
  - Shoot Me an [Email](sshadab9851@gmail.com) 💌
 
  
